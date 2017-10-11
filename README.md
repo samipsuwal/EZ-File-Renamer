@@ -1,6 +1,6 @@
 # EZ File Renamer
 
-Renames all files in a directory to 1,2,3 incrementally
+Renames all files in a directory to 1,2,3 incrementally preserving the extensions
 
 
 
